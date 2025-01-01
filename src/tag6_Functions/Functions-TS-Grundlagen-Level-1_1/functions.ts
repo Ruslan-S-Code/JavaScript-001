@@ -4,6 +4,6 @@ function intro1(): void {
 intro1();
 
 const intro1Arrow = (): void => {
-    console.log("Hello ArrowFunction");
+    console.log("Hello Arrow Function");
 };
 intro1Arrow();
